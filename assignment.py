@@ -2,7 +2,7 @@
 # Do NOT use .append() or .pop() inside the queue functions - move the pointers yourself.
 
 # Exercise 1 - Linear queue
-Queue = []
+Queue = [] 
 HeadPointer = -1
 TailPointer = -1
 # Write code here to fill Queue with 6 elements, all "" (empty string)
